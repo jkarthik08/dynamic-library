@@ -1,0 +1,16 @@
+{
+  "name": "dynamic-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jkarthik08/dynamic-library.git",
+  "author": "Karthik J",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.13.10",
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10"
+  }
+}
